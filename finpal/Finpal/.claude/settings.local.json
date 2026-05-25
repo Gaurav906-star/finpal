@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(cd \"c:\\\\Users\\\\Shalini Sharma\\\\OneDrive\\\\Desktop\\\\finpal\\\\Finpal\\\\backend\"; $env:PYTHONPATH = \".\"; ..\\\\venv\\\\Scripts\\\\pytest tests/ -v 2>&1)"
+    ]
+  }
+}
